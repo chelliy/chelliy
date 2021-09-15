@@ -1,4 +1,4 @@
-Hi, I’m Qingzhi You, you also can call me Chellie.
+-- Hi, I’m Qingzhi You, you also can call me Chellie.
 -- A junior in Gerogia Institute of Technology, majoring CS, Intelligent and Media threads.
 -- I love play video games, and also willing to work in game development field.
 
