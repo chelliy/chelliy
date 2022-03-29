@@ -1,6 +1,8 @@
--- Hi, I’m Qingzhi You, you also can call me Chellie.
--- A junior in Gerogia Institute of Technology, majoring CS, Intelligent and Media threads.
--- I love play video games, and also willing to work in game development field.
+Hi, I’m Qingzhi You, you also can call me Chellie.
+
+A junior in Gerogia Institute of Technology, majoring CS, Intelligent and Media threads.
+
+I love play video games, and also willing to work in game development field.
 
 <!---
 chelliy/chelliy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
