@@ -1,6 +1,8 @@
 Hi, I’m Qingzhi You, you also can call me Chellie.
 
-A senior in Gerogia Institute of Technology, majoring CS, Intelligent and Media threads.
+Finished undergraduate study at Georgia Institute of Technology, majoring in CS, Intelligent and Media threads.
+
+MSCS(Game Development) student at USC
 
 I love play video games, and also want to work in game development field.
 
