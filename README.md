@@ -4,7 +4,6 @@ Finished undergraduate study at Georgia Institute of Technology, majoring in CS,
 
 MSCS(Game Development) student at USC
 
-I love play video games, and also want to work in game development field.
 
 <!---
 chelliy/chelliy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
