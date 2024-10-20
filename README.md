@@ -2,7 +2,7 @@ Hi, I’m Qingzhi You, you also can call me Chellie.
 
 Second year MSCS(Game Development) student at USC
 
-Finished undergraduate study at Georgia Institute of Technology, majoring in CS, Intelligent and Media threads.
+Get bachelor degree study at Georgia Institute of Technology, majoring in CS, Intelligent and Media threads.
 
 
 <!---
